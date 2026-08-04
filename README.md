@@ -19,7 +19,7 @@ Generate and insert images into your response with a press of a button
 
 ## Creature
 ### [Canvas](https://github.com/j-dandelion/Lumiverse-Canvas)
-Improved UI, including moving extensions to a second sidebar on desktop
+Improved UI, including moving tabs to a second sidebar on desktop
 
 `https://github.com/j-dandelion/Lumiverse-Canvas`
 
