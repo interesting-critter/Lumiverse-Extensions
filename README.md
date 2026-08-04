@@ -46,15 +46,15 @@ Automatically close brackets, quotations, asterisks, etc. in the chat composer
 
 `https://github.com/kittyafterdark/Lumi-AutoClose`
 
-### [Swarm Studio](https://github.com/kittyafterdark/LumiSwarm-Studio)
-A full, much comfier, SwarmUI workspace inside Lumiverse
-
-`https://github.com/kittyafterdark/LumiSwarm-Studio`
-
 ### [Prism](https://github.com/kittyafterdark/Prism)
 Assisted colored dialogue
 
 `https://github.com/kittyafterdark/Prism`
+
+### [Swarm Studio](https://github.com/kittyafterdark/LumiSwarm-Studio)
+A full, much comfier, SwarmUI workspace inside Lumiverse
+
+`https://github.com/kittyafterdark/LumiSwarm-Studio`
 
 ## Kxa
 ### [Notehaven](https://github.com/hans123m12m1/lumiverse-notehaven)
@@ -88,7 +88,7 @@ Sidecar (secondary llm) slop fixer/rewriter
 ### [LumiAgent](https://github.com/AMousePad/LumiAgent)
 Agentic editing of character cards, presets, lorebooks, regex, etc.
 
-### [Lumibooks](https://github.com/AMousePad/LumiBooks)
+### [LumiBooks](https://github.com/AMousePad/LumiBooks)
 In-depth lorebook-based long term memory system
 
 `https://github.com/AMousePad/LumiBooks`
@@ -123,9 +123,6 @@ Twitter but for your (selected) character cards and/or councils members
 
 `https://github.com/prolix-oc/Lumiverse-XTimeline`
 
-## Ptolemaios
-### 
-
 ## SCA255
 ### [Auto Img (beta)](https://github.com/sca255/lumiverse-autoimg)
 LLM outputs image prompt to trigger automatic image gen
@@ -138,12 +135,12 @@ Tree-aware lorebook retrieval system inspired by TunnelVision
 
 `https://github.com/archkr/Lumiverse-LoreRecall`
 
-### [Lumimind (beta)](https://github.com/Archkr/Lumiverse-LumiMind)
+### [LumiMind (beta)](https://github.com/Archkr/Lumiverse-LumiMind)
 Track full character states
 
 `https://github.com/Archkr/Lumiverse-LumiMind`
 
-### [Lumistage](https://github.com/Archkr/Lumiverse-LumiStage)
+### [LumiStage](https://github.com/Archkr/Lumiverse-LumiStage)
 In-depth sprite system (independent of native expression system)
 
 `https://github.com/Archkr/Lumiverse-LumiStage`
