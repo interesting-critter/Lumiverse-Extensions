@@ -56,13 +56,6 @@ A full, much comfier, SwarmUI workspace inside Lumiverse
 
 `https://github.com/kittyafterdark/LumiSwarm-Studio`
 
-## Kxa
-### [Notehaven](https://github.com/hans123m12m1/lumiverse-notehaven)
-A notes extension similar to ObsidianMD
-You can also set the floating button to a cute chibi of your OC :3 (or whatever image you want, idc)
-
-`https://github.com/hans123m12m1/lumiverse-notehaven`
-
 ## Lin
 ### [Vellum II](https://github.com/valdoix/vellum-engine/tree/main)
 The second half of Lin's Vellum II preset
@@ -122,6 +115,13 @@ Links your spotify to your Lumiverse (requires premium)
 Twitter but for your (selected) character cards and/or councils members
 
 `https://github.com/prolix-oc/Lumiverse-XTimeline`
+
+## Roon
+### [Notehaven](https://github.com/hans123m12m1/lumiverse-notehaven)
+A notes extension similar to ObsidianMD
+You can also set the floating button to a cute chibi of your OC :3 (or whatever image you want, idc)
+
+`https://github.com/hans123m12m1/lumiverse-notehaven`
 
 ## SCA255
 ### [Auto Img (beta)](https://github.com/sca255/lumiverse-autoimg)
