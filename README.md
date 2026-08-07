@@ -28,6 +28,12 @@ Lorebook memory system similar to ST's MemoryBooks
 
 `https://github.com/j-dandelion/Lumiverse-Chronicle`
 
+## datacat
+### [Datacat Browser](https://github.com/datacat-run/datacat-lumiverse)
+Browse the datacat library and import directly to lumiverse
+
+`https://github.com/datacat-run/datacat-lumiverse`
+
 ## EmpeQ
 ### [Multi Image Gen](https://github.com/EmpeQ17/Lumiverse-Auto-Image-Gen)
 Send multiple image gen requests with a single llm response
