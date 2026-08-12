@@ -135,6 +135,12 @@ LLM outputs image prompt to trigger automatic image gen
 
 `https://github.com/sca255/lumiverse-autoimg`
 
+## Sereya
+### [Lumiverse Suite](https://github.com/I-Sereya-I/lumiverse_suite)
+Overhaul of various UI components, including the character library and chat page.
+
+`https://github.com/I-Sereya-I/lumiverse_suite`
+
 ## Steven
 ### [Lore Recall](https://github.com/archkr/Lumiverse-LoreRecall)
 Tree-aware lorebook retrieval system inspired by TunnelVision
