@@ -103,6 +103,11 @@ Set a character to send push notification messages at random intervals
 
 `https://github.com/prolix-oc/Lumiverse-CharacterNudges`
 
+### [Luminotes](https://github.com/prolix-oc/Luminote) (X Coffee & Roon)
+A more advanced/progressed fork of Roon's Notehaven extension. Obsidian-like note taking extension.
+
+`https://github.com/prolix-oc/Luminote`
+
 ### [SimTracker](https://github.com/prolix-oc/Lumiverse-SimTracker)
 A port of ST's SimTracker extension (but cooler)
 
