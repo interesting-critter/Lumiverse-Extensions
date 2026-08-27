@@ -177,6 +177,11 @@ Use a secondary LLM to predict upcomong world state and provide a directive for 
 
 `https://github.com/Archkr/Lumiverse-LumiWorld`
 
+### [LumiWHYYYY](https://github.com/Archkr/Lumiverse-LumiWHYYY)
+It's, uh... jumpscares. Why? To keep your awake? To fuck with someone you're hosting for? Who knows.
+
+`https://github.com/Archkr/Lumiverse-LumiWHYYY`
+
 ## Targen
 ### [Swipe Scrubber](https://codeberg.org/targren/Lumiverse-SwipeScrubber)
 Clean up unsused swipes
