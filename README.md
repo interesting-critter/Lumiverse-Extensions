@@ -52,6 +52,11 @@ Automatically close brackets, quotations, asterisks, etc. in the chat composer
 
 `https://github.com/kittyafterdark/Lumi-AutoClose`
 
+### [Palette](https://github.com/kittyafterdark/Palette.git)
+CSS theming made easy :D
+
+`https://github.com/kittyafterdark/Palette.git`
+
 ### [Prism](https://github.com/kittyafterdark/Prism)
 Assisted colored dialogue
 
