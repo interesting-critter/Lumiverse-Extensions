@@ -1,25 +1,17 @@
 ## 📑 Table of Contents
 
-- [Beeopo (1)](#beeopo)
-- [Cfigure (2)](#cfigure)
-- [Creature (2)](#creature)
-- [Datacat (1)](#datacat)
-- [EmpeQ (1)](#empeq)
-- [Japolino(1)](#japolino)
-- [Kitty Lotus (4)](#kitty-lotus)
-- [Lin (1)](#lin)
-- [Mindbound (1)](#mindbound)
-- [Moon (1)](#moon)
-- [Mousepad (4)](#mousepad)
-- [Prolix (6)](#prolix)
-- [Roon (1)](#roon)
-- [SCA255 (1)](#sca255)
-- [Sereya (1)](#sereya)
-- [Steven (7)](#steven)
-- [Targen (1)](#targen)
-- [The Liquor Priest (1 soon)](#the-liquor-priest)
-- [Vishous (1)](#vishous)
-- [Your Assigned Lummate (1)](#your-assigned-lummate)
+| | |
+| :--- | :--- |
+| [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
+| [Creature (2)](#creature) | [Datacat (1)](#datacat) |
+| [EmpeQ (1)](#empeq) | [Japolino(1)](#japolino) |
+| [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
+| [Mindbound (1)](#mindbound) | [Moon (1)](#moon) |
+| [Mousepad (4)](#mousepad) | [Prolix (6)](#prolix) |
+| [Roon (1)](#roon) | [SCA255 (1)](#sca255) |
+| [Sereya (1)](#sereya) | [Steven (7)](#steven) |
+| [Targen (1)](#targen) | [The Liquor Priest (1 soon)](#the-liquor-priest) |
+| [Vishous (1)](#vishous) | [Your Assigned Lummate (1)](#your-assigned-lummate) |
 
 ---
 
@@ -27,7 +19,7 @@
 
 | Extension | Description |
 | :--- | :--- |
-| **[Rewrite](https://github.com/Beeopo/Lumiverse-Rewrite)** | Rewrite highlighted/selected text. |
+| **[Rewrite](https://github.com/Beeopo/Lumiverse-Rewrite)** | Rewrite highlighted / selected text. |
 
 ---
 
