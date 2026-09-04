@@ -3,9 +3,10 @@
 | | |
 | :--- | :--- |
 | [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
-| [Creature (2)](#creature) | [Datacat (1)](#datacat) |
-| [EmpeQ (1)](#empeq) | [Japolino(1)](#japolino) |
-| [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
+| [Core (1)](#core) | [Creature (2)](#creature) |
+| [Datacat (1)](#datacat) | [EmpeQ (1)](#empeq) 
+| [Japolino(1)](#japolino) | [Kitty Lotus (4)](#kitty-lotus) 
+| [Lin (1)](#lin) | [Lunch (1)](#lunch) |
 | [Mindbound (1)](#mindbound) | [Moon (1)](#moon) |
 | [Mousepad (4)](#mousepad) | [Prolix (6)](#prolix) |
 | [Roon (1)](#roon) | [SCA255 (1)](#sca255) |
@@ -29,6 +30,14 @@
 | :--- | :--- |
 | **[Prompt Viewer](https://github.com/cfigure/Lumiverse-prompt-viewer)** | View fully assembled prompts after they've been sent to the LLM. |
 | **[Shutter](https://github.com/cfigure/Lumiverse-Shutter)** | Generate and insert images into your response with a press of a button. |
+
+---
+
+## Core
+
+| Extension | Description |
+| :--- | :--- |
+| **[Super Deduper](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | Clear duplicate cards from you library |
 
 ---
 
@@ -81,6 +90,14 @@
 | Extension | Description |
 | :--- | :--- |
 | **[Vellum II](https://github.com/valdoix/vellum-engine/tree/main)** | The second half of Lin's Vellum II preset. |
+
+---
+
+## Lunch
+
+| Extension | Description |
+| :--- | :--- |
+|[Lunch Tension](https://github.com/patatasbravasch-arch/bionic) | Various quality of life features |
 
 ---
 
