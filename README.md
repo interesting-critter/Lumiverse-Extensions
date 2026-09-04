@@ -67,9 +67,11 @@
 ---
 
 ## Japolino
+(Stocking)
 
 | Extension | Description |
 | :--- | :--- |
+| **[Cue](https://github.com/japolino/cue-visual-novel)** | It's a cool visual novel ting :p |
 | **[Inlay](https://github.com/japolino/inlay-illustrator)** | Context-aware image generation. |
 
 ---
