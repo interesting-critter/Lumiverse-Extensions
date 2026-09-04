@@ -97,7 +97,7 @@
 
 | Extension | Description |
 | :--- | :--- |
-|[Lunch Tension](https://github.com/patatasbravasch-arch/bionic) | Various quality of life features |
+|[Bionic](https://github.com/patatasbravasch-arch/bionic) | Bionic reading and various other quality of life features |
 
 ---
 
