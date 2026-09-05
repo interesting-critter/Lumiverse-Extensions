@@ -8,7 +8,7 @@
 | [Japolino(1)](#japolino) | [Kitty Lotus (4)](#kitty-lotus) 
 | [Lin (1)](#lin) | [Lunch (1)](#lunch) |
 | [Mindbound (1)](#mindbound) | [Moon (1)](#moon) |
-| [Mousepad (4)](#mousepad) | [Prolix (6)](#prolix) |
+| [Mousepad (4)](#mousepad) | [Prolix (7)](#prolix) |
 | [Roon (1)](#roon) | [SCA255 (1)](#sca255) |
 | [Sereya (1)](#sereya) | [Steven (7)](#steven) |
 | [Targen (1)](#targen) | [The Liquor Priest (1 soon)](#the-liquor-priest) |
