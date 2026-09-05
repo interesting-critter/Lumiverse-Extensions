@@ -139,6 +139,7 @@
 | **[SimTracker](https://github.com/prolix-oc/Lumiverse-SimTracker)** | A port of ST's SimTracker extension (but cooler). |
 | **[Shitposting Chat Room](https://github.com/prolix-oc/Lumiverse-ChatRoom)** | Chat with council members about your current chat. |
 | **[Spotify Controls](https://github.com/prolix-oc/Lumiverse-SpotifyControls)** | Links your Spotify to your Lumiverse (requires premium). |
+| **[Navidrome Controls](https://github.com/prolix-oc/Lumiverse-SubsonicControls.git)** | Same as above but for self-hosted navidrome (free alternative) |
 | **[XTimeline](https://github.com/prolix-oc/Lumiverse-XTimeline)** | Twitter, but for your (selected) character cards and/or council members. |
 
 ---
