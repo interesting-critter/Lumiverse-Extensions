@@ -80,6 +80,7 @@
 ## Moon
 |  |  |
 | :---: | :--- |
+| [Auto Refine](https://github.com/starlitcode/Lumiverse-Auto-Refine) | Sidecar (secondary LLM) slop fixer/rewriter |
 | **[Auto Retry](https://github.com/starlitcode/Lumiverse-Auto-Retry)** | Automatically retry or swipe failed, empty, frozen, or cut-off responses. |
 ---
 
