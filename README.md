@@ -1,10 +1,10 @@
-## 📑 Table of Contents
+## Table of Contents <sub><sup>(45 Total)</sup></sub>
 | | |
 | :---: | :---: |
 | [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
 | [Core (1)](#core) | [Creature (2)](#creature) |
 | [Datacat (1)](#datacat) | [EmpeQ (1)](#empeq) 
-| [Japolino(2)](#japolino) | [Kitty Lotus (4)](#kitty-lotus) 
+| [Japolino (2)](#japolino) | [Kitty Lotus (4)](#kitty-lotus) 
 | [Lin (1)](#lin) | [Lunch (1)](#lunch) |
 | [Mindbound (1)](#mindbound) | [Moon (2)](#moon) |
 | [Mousepad (4)](#mousepad) | [Prolix (7)](#prolix) |
