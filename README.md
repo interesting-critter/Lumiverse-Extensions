@@ -4,9 +4,9 @@
 | [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
 | [Core (1)](#core) | [Creature (2)](#creature) |
 | [Datacat (1)](#datacat) | [EmpeQ (1)](#empeq) 
-| [Japolino(1)](#japolino) | [Kitty Lotus (4)](#kitty-lotus) 
+| [Japolino(2)](#japolino) | [Kitty Lotus (4)](#kitty-lotus) 
 | [Lin (1)](#lin) | [Lunch (1)](#lunch) |
-| [Mindbound (1)](#mindbound) | [Moon (1)](#moon) |
+| [Mindbound (1)](#mindbound) | [Moon (2)](#moon) |
 | [Mousepad (4)](#mousepad) | [Prolix (7)](#prolix) |
 | [Roon (1)](#roon) | [SCA255 (1)](#sca255) |
 | [Sereya (1)](#sereya) | [Stem4000 (1)](#stem4000) |
