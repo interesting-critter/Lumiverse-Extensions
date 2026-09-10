@@ -3,16 +3,16 @@
 | :---: | :---: |
 | [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
 | [Core (1)](#core) | [Creature (2)](#creature) |
-| [Datacat (1)](#datacat) | [EmpeQ (1)](#empeq) 
-| [Japolino (2)](#japolino) | [Kitty Lotus (4)](#kitty-lotus) 
-| [Lin (1)](#lin) | [Lunch (1)](#lunch) |
-| [Mindbound (1)](#mindbound) | [Moon (2)](#moon) |
-| [Mousepad (4)](#mousepad) | [Prolix (7)](#prolix) |
-| [Roon (1)](#roon) | [SCA255 (1)](#sca255) |
-| [Sereya (1)](#sereya) | [Stem4000 (1)](#stem4000) |
-| [Steven (7)](#steven) | [Targen (1)](#targen) |
-| [The Liquor <br>Priest (1 soon)](#the-liquor-priest) | [Vishous (1)](#vishous) |
-| [Your Assigned <br>Lummate (1)](#your-assigned-lummate) | |
+| [Critter (1)](#critter)| [Datacat (1)](#datacat) |
+| [EmpeQ (1)](#empeq) | [Japolino (2)](#japolino) |
+| [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
+| [Lunch (1)](#lunch) | [Mindbound (1)](#mindbound) |
+| [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
+| [Prolix (7)](#prolix) | [Roon (1)](#roon) |
+| [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
+| [Stem4000 (1)](#stem4000) | [Steven (7)](#steven) |
+| [Targen (1)](#targen) | [The Liquor <br>Priest (1 soon)](#the-liquor-priest) |
+| [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (1)](#your-assigned-lummate) |
 
 ---
 ## Beeopo
@@ -29,13 +29,18 @@
 ## Core
 | |  |
 | :---: | :--- |
-| **[Super Deduper](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | Clear duplicate cards from you library |
+| **[Super Deduper](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | Clear duplicate cards from your library |
 ---
 ## Creature
 |  |  |
 | :---: | :--- |
 | **[Canvas](https://github.com/j-dandelion/Lumiverse-Canvas)** | Improved UI, including moving tabs to a second sidebar on desktop. |
 | **[Chronicle](https://github.com/j-dandelion/Lumiverse-Chronicle)** | Lorebook memory system similar to ST's MemoryBooks. |
+---
+## Critter
+| |  |
+| :---: | :--- |
+| **[LumiTarot](https://github.com/interesting-critter/lumi-tarot)** | Have chars perform tarot readings for your personas |
 ---
 ## Datacat
 |  |  |
