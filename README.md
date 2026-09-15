@@ -2,7 +2,7 @@
 | | |
 | :---: | :---: |
 | [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
-| [Core (1)](#core) | [Creature (2)](#creature) |
+| [Core (2)](#core) | [Creature (2)](#creature) |
 | [Critter (1)](#critter)| [Datacat (1)](#datacat) |
 | [EmpeQ (1)](#empeq) | [Japolino (2)](#japolino) |
 | [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
@@ -30,6 +30,7 @@
 | |  |
 | :---: | :--- |
 | **[Super Deduper](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | Clear duplicate cards from your library |
+| [Greeting Image Generator](https://github.com/ajrc0re/Lumiverse-GreetingImageGenerator.git) | What it says on the tin. Gen greeting images using your existing image gen connections. |
 ---
 ## Creature
 |  |  |
