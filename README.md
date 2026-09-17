@@ -12,7 +12,7 @@
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
 | [Stem4000 (1)](#stem4000) | [Steven (7)](#steven) |
 | [Targen (1)](#targen) | [The Liquor <br>Priest (1 soon)](#the-liquor-priest) |
-| [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (1)](#your-assigned-lummate) |
+| [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (2)](#your-assigned-lummate) |
 
 ---
 ## Beeopo
@@ -159,3 +159,4 @@
 |  |  |
 | :---: | :--- |
 | **[Lummate](https://github.com/WanderingMonk8/lummate.git)** | Xtoy connectivity. |
+| **[Img Gen Payload Injector](https://github.com/WanderingMonk8/img-gen-payload-injector) | Inject extra payload parameters required by NanoGPT img gen |
