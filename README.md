@@ -1,6 +1,7 @@
 ## Table of Contents <sub><sup>(45 Total)</sup></sub>
 | | |
 | :---: | :---: |
+| [Angel (1)](#angel) | (placeholder) |
 | [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
 | [Core (2)](#core) | [Creature (2)](#creature) |
 | [Critter (1)](#critter)| [Datacat (1)](#datacat) |
@@ -15,6 +16,10 @@
 | [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (2)](#your-assigned-lummate) |
 
 ---
+## Angel
+|  |  |
+| :---: | :---: |
+| **[Bookworm](https://github.com/angyaruo/BookWorm)** | Your own little encyclopedic worm inside lumiverse |
 ## Beeopo
 | | |
 | :---: | :--- |
