@@ -48,7 +48,7 @@
 | |  |
 | :---: | :--- |
 | **[LumiTarot](https://github.com/interesting-critter/lumi-tarot)** | Have chars perform tarot readings for your personas |
-| **[Regex Studio](https://github.com/interesting-critter/RegexStudio)** | Edit entire cards and lorebooks at once with regex find and replace |
+| **[Regex Studio](https://github.com/interesting-critter/Regex-Studio)** | Edit entire cards and lorebooks at once with regex find and replace |
 ---
 ## Datacat
 |  |  |
