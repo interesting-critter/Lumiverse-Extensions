@@ -14,6 +14,7 @@
 | [Stem4000 (1)](#stem4000) | [Steven (7)](#steven) |
 | [Targen (1)](#targen) | [The Liquor <br>Priest (1 soon)](#the-liquor-priest) |
 | [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (2)](#your-assigned-lummate) |
+| [Yuu (1)](#yuu) |   |
 
 ---
 ## Angel
@@ -35,7 +36,7 @@
 | |  |
 | :---: | :--- |
 | **[Super Deduper](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | Clear duplicate cards from your library |
-| [Greeting Image Generator](https://github.com/ajrc0re/Lumiverse-GreetingImageGenerator.git) | What it says on the tin. Gen greeting images using your existing image gen connections. |
+| **[Greeting Image Generator](https://github.com/ajrc0re/Lumiverse-GreetingImageGenerator.git)** | What it says on the tin. Gen greeting images using your existing image gen connections. |
 ---
 ## Creature
 |  |  |
@@ -81,7 +82,7 @@
 ## Lunch
 |  |  |
 | :---: | :--- |
-|[Bionic](https://github.com/patatasbravasch-arch/bionic) | Bionic reading and various other quality of life features |
+| **[Bionic](https://github.com/patatasbravasch-arch/bionic)** | Bionic reading and various other quality of life features |
 ---
 ## Mindbound
 |  |  |
@@ -91,7 +92,7 @@
 ## Moon
 |  |  |
 | :---: | :--- |
-| [Auto Refine](https://github.com/starlitcode/Lumiverse-Auto-Refine) | Sidecar (secondary LLM) slop fixer/rewriter |
+| **[Auto Refine](https://github.com/starlitcode/Lumiverse-Auto-Refine)** | Sidecar (secondary LLM) slop fixer/rewriter |
 | **[Auto Retry](https://github.com/starlitcode/Lumiverse-Auto-Retry)** | Automatically retry or swipe failed, empty, frozen, or cut-off responses. |
 ---
 
@@ -132,7 +133,7 @@
 ## Stem4000
 |  |  |
 | :---: | :--- |
-| [Image Browser](https://github.com/CreativityPod/lumiverse-image-browser) | A simple image gallery mapped to `/data/images/` |
+| **[Image Browser](https://github.com/CreativityPod/lumiverse-image-browser)** | A simple image gallery mapped to `/data/images/` |
 ---
 ## Steven
 |  |  |
@@ -153,7 +154,7 @@
 ## The Liquor Priest
 |  |  |
 | :---: | :--- |
-| **Agentic Preset Composer** | *(Coming&nbsp;Soon)* |
+| **Agentic Preset Composer** | *(Coming&nbsp;Soon (?))* |
 ---
 ## Vishous
 |  |  |
@@ -164,4 +165,13 @@
 |  |  |
 | :---: | :--- |
 | **[Lummate](https://github.com/WanderingMonk8/lummate.git)** | Xtoy connectivity. |
-| **[Img Gen Payload Injector](https://github.com/WanderingMonk8/img-gen-payload-injector) | Inject extra payload parameters required by NanoGPT img gen |
+| **[Img Gen Payload Injector](https://github.com/WanderingMonk8/img-gen-payload-injector)** | Inject extra payload parameters required by NanoGPT img gen |
+## Yuu
+| | |
+| :--: | :---: |
+| **[Saucepan Seasoning](https://github.com/bumyann/Lumiverse-Saucepan-Seasoning)** | Add guided gen presets and impersonation drafting |
+
+## Table for me to copy and paste lol
+|  |  |
+| :---: | :---: |
+| **[Nada]()** |  |
