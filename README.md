@@ -4,7 +4,7 @@
 | [Angel (1)](#angel) | (placeholder) |
 | [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
 | [Core (2)](#core) | [Creature (2)](#creature) |
-| [Critter (1)](#critter)| [Datacat (1)](#datacat) |
+| [Critter (2)](#critter)| [Datacat (1)](#datacat) |
 | [EmpeQ (1)](#empeq) | [Japolino (2)](#japolino) |
 | [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
 | [Lunch (1)](#lunch) | [Mindbound (1)](#mindbound) |
@@ -48,6 +48,7 @@
 | |  |
 | :---: | :--- |
 | **[LumiTarot](https://github.com/interesting-critter/lumi-tarot)** | Have chars perform tarot readings for your personas |
+| **[Regex Studio](https://github.com/interesting-critter/RegexStudio)** | Edit entire cards and lorebooks at once with regex find and replace |
 ---
 ## Datacat
 |  |  |
