@@ -1,4 +1,4 @@
-## Table of Contents <sub><sup>(45 Total)</sup></sub>
+## Table of Contents <sub><sup>(50 Total)</sup></sub>
 | | |
 | :---: | :---: |
 | [Angel (1)](#angel) | (placeholder) |
@@ -64,7 +64,7 @@
 (Stocking)
 |  |  |
 | :---: | :--- |
-| **[Cue](https://github.com/japolino/cue-visual-novel)** | It's a cool visual novel ting :p |
+| **[Cue](https://github.com/japolino/cue-living-novel)** | It's a cool visual novel ting :p |
 | **[Inlay](https://github.com/japolino/inlay-illustrator)** | Context-aware image generation. |
 ---
 ## Kitty Lotus
