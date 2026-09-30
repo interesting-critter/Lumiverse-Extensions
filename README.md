@@ -1,13 +1,14 @@
-## Table of Contents <sub><sup>(50 Total)</sup></sub>
+## Table of Contents <sub><sup>(52 Total)</sup></sub>
 | | |
 | :---: | :---: |
-| [Angel (1)](#angel) | (placeholder) |
-| [Beeopo (1)](#beeopo) | [Cfigure (2)](#cfigure) |
+| [Angel (1)](#angel) | [Beeopo (1)](#beeopo) | 
+| [BitHappy (1)](#bithappy) | [Cfigure (2)](#cfigure) |
 | [Core (2)](#core) | [Creature (2)](#creature) |
 | [Critter (2)](#critter)| [Datacat (1)](#datacat) |
 | [EmpeQ (1)](#empeq) | [Japolino (2)](#japolino) |
 | [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
 | [Lunch (1)](#lunch) | [Mindbound (1)](#mindbound) |
+| [Missus\nMeeseeks (1)](#missus-meeseeks) | (placeholder) |
 | [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
 | [Prolix (7)](#prolix) | [Roon (1)](#roon) |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
@@ -25,6 +26,11 @@
 | | |
 | :---: | :--- |
 | **[Rewrite](https://github.com/Beeopo/Lumiverse-Rewrite)** | Rewrite highlighted / selected text. |
+---
+## BitHappy
+|  |  |
+| :---: | :---: |
+| **[Tapestry](https://github.com/BitHappy/Tapestry)** | A pretty chat branch map :) |
 ---
 ## Cfigure
 | | |
@@ -89,6 +95,11 @@
 |  |  |
 | :---: | :--- |
 | **[LumiScript](https://github.com/mindbound/lumiscript)** | Write scripts (JS) that react to chat events, automate behavior, inject prompt context, and build interactive UIs, without touching Lumiverse's core code. |
+---
+## Missus Meeseeks
+|  |  |
+| :---: | :---: |
+| **[Stagecoach](https://github.com/MissusMeesecks/Stagecoach)** | In cards with linear timelines in their greetings, subtly guide the AI toward the next greeting |
 ---
 ## Moon
 |  |  |
