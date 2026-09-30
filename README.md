@@ -8,7 +8,7 @@
 | [EmpeQ (1)](#empeq) | [Japolino (2)](#japolino) |
 | [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
 | [Lunch (1)](#lunch) | [Mindbound (1)](#mindbound) |
-| [Missus\nMeeseeks (1)](#missus-meeseeks) | (placeholder) |
+| [Missus<br>Meeseeks (1)](#missus-meeseeks) | (placeholder) |
 | [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
 | [Prolix (7)](#prolix) | [Roon (1)](#roon) |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
