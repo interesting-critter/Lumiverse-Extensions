@@ -8,7 +8,7 @@
 | [EmpeQ (1)](#empeq) | [Japolino (2)](#japolino) |
 | [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
 | [Lunch (1)](#lunch) | [Mindbound (1)](#mindbound) |
-| [Missus<br>Meeseeks (1)](#missus-meeseeks) | (placeholder) |
+| [Missus<br>Meesecks (1)](#missus-meesecks) | (placeholder) |
 | [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
 | [Prolix (7)](#prolix) | [Roon (1)](#roon) |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
@@ -96,7 +96,7 @@
 | :---: | :--- |
 | **[LumiScript](https://github.com/mindbound/lumiscript)** | Write scripts (JS) that react to chat events, automate behavior, inject prompt context, and build interactive UIs, without touching Lumiverse's core code. |
 ---
-## Missus Meeseeks
+## Missus Meesecks
 |  |  |
 | :---: | :---: |
 | **[Stagecoach](https://github.com/MissusMeesecks/Stagecoach)** | In cards with linear timelines in their greetings, subtly guide the AI toward the next greeting |
