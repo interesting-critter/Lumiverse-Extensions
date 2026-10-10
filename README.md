@@ -86,6 +86,7 @@
 | :---: | :--- |
 | **[Auto Close](https://github.com/kittyafterdark/Lumi-AutoClose)** | Automatically close brackets, quotations, asterisks, etc. in the chat composer. |
 | **[Palette](https://github.com/kittyafterdark/Palette.git)** | CSS theming made easy :D |
+| **[Pocket](https://github.com/kittyafterdark/Pocket)** | A cool floating phone to text your characters |
 | **[Prism](https://github.com/kittyafterdark/Prism)** | Assisted colored dialogue. |
 | **[Swarm Studio](https://github.com/kittyafterdark/LumiSwarm-Studio)** | A full, much comfier, SwarmUI workspace inside Lumiverse. |
 ---
