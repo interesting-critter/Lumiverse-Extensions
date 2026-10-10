@@ -3,19 +3,19 @@
 | :---: | :---: |
 | [Angel (1)](#angel) | [Beeopo (1)](#beeopo) | 
 | [BitHappy (1)](#bithappy) | [Cfigure (2)](#cfigure) |
-| [Core (2)](#core) | [Creature (2)](#creature) |
-| [Critter (2)](#critter)| [Datacat (1)](#datacat) |
-| [EmpeQ (1)](#empeq) | [Japolino (2)](#japolino) |
-| [Kitty Lotus (4)](#kitty-lotus) | [Lin (1)](#lin) |
-| [Lunch (1)](#lunch) | [Mindbound (1)](#mindbound) |
-| [Missus<br>Meesecks (1)](#missus-meesecks) | (placeholder) |
+| [Core (3)](#core) | [Creature (2)](#creature) |
+| [Critter (3)](#critter)| [Datacat (1)](#datacat) |
+| [EmpeQ (1)](#empeq) | [Isiggy](#isiggy) |
+| [Japolino (4)](#japolino) | [Kitty Lotus (5)](#kitty-lotus) |
+| [Lin (1)](#lin) | [Lunch (1)](#lunch) |
+| [Mindbound (1)](#mindbound) | [Missus<br>Meesecks (1)](#missus-meesecks) |
 | [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
 | [Prolix (7)](#prolix) | [Roon (1)](#roon) |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
-| [Stem4000 (1)](#stem4000) | [Steven (7)](#steven) |
+| [Stem4000 (2)](#stem4000) | [Steven (7)](#steven) |
 | [Targen (1)](#targen) | [The Liquor <br>Priest (1 soon)](#the-liquor-priest) |
-| [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (2)](#your-assigned-lummate) |
-| [Yuu (1)](#yuu) |   |
+| [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (3)](#your-assigned-lummate) |
+| [Yuli (1)](#yuli)[Yuu (1)](#yuu) |
 
 ---
 ## Angel
@@ -43,6 +43,7 @@
 | :---: | :--- |
 | **[Super Deduper](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | Clear duplicate cards from your library |
 | **[Greeting Image Generator](https://github.com/ajrc0re/Lumiverse-GreetingImageGenerator.git)** | What it says on the tin. Gen greeting images using your existing image gen connections. |
+| **[Waypoints](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | turns greeting into destinations for previous greetings |
 ---
 ## Creature
 |  |  |
@@ -53,6 +54,7 @@
 ## Critter
 | |  |
 | :---: | :--- |
+| [Connection Folders](https://github.com/interesting-critter/Connection-Folders.git) | adds folders to the connections tab (just for llm connections so far) |
 | **[LumiTarot](https://github.com/interesting-critter/lumi-tarot)** | Have chars perform tarot readings for your personas |
 | **[Regex Studio](https://github.com/interesting-critter/Regex-Studio)** | Edit entire cards and lorebooks at once with regex find and replace |
 ---
@@ -66,12 +68,18 @@
 | :---: | :--- |
 | **[Multi Image Gen](https://github.com/EmpeQ17/Lumiverse-Auto-Image-Gen)** | Send multiple image generation requests with a single LLM response. |
 ---
+# Isiggy
+|  |  |
+| :---: | :---: |
+| **[Live2d](https://github.com/isiggy/Lumiverse-Live2d-Public)** | Support for your own live2d models |
+| **[Spine](https://github.com/isiggy/Lumiverse-Spine-Public)** | same as above for spine models |
 ## Japolino
-(Stocking)
 |  |  |
 | :---: | :--- |
 | **[Cue](https://github.com/japolino/cue-living-novel)** | It's a cool visual novel ting :p |
 | **[Inlay](https://github.com/japolino/inlay-illustrator)** | Context-aware image generation. |
+| **[LumiDoll](https://github.com/japolino/LumiDoll)** | drawn doll figures for char and user |
+| **[Warp](https://github.com/japolino/warp)** | Roleplay simulation engine |
 ---
 ## Kitty Lotus
 |  |  |
@@ -146,6 +154,7 @@
 |  |  |
 | :---: | :--- |
 | **[Image Browser](https://github.com/CreativityPod/lumiverse-image-browser)** | A simple image gallery mapped to `/data/images/` |
+| **[QuickGen](https://github.com/CreativityPod/lumiverse-quick-gen)** | Generate images and videos using previously genned images |
 ---
 ## Steven
 |  |  |
@@ -178,6 +187,12 @@
 | :---: | :--- |
 | **[Lummate](https://github.com/WanderingMonk8/lummate.git)** | Xtoy connectivity. |
 | **[Img Gen Payload Injector](https://github.com/WanderingMonk8/img-gen-payload-injector)** | Inject extra payload parameters required by NanoGPT img gen |
+| **[Custom Chat Voice](https://github.com/WanderingMonk8/custom_voice)** | says it on the tin. custom tts voices. |
+## Yuli
+|  |  |
+| :---: | :---: |
+| **[LumiFlair](https://github.com/yuliontop/lumi-flair)** | theme aware customization and chat effects |
+| **[Tracker Scrubber](https://github.com/WanderingMonk8/tracker_scrubber)** | Cleans all trackers from your chats context |
 ## Yuu
 | | |
 | :--: | :---: |
