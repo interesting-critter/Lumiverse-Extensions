@@ -12,10 +12,11 @@
 | [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
 | [Prolix (7)](#prolix) | [Roon (1)](#roon) |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
-| [Stem4000 (2)](#stem4000) | [Steven (7)](#steven) |
-| [Targen (1)](#targen) | [The Liquor <br>Priest (1 soon)](#the-liquor-priest) |
-| [Vishous (1)](#vishous) | [Your Assigned <br>Lummate (3)](#your-assigned-lummate) |
-| [Yuli (1)](#yuli)[Yuu (1)](#yuu) |
+| [Shiru (1)](#shiru) | [Stem4000 (2)](#stem4000) |
+| [Steven (7)](#steven) | [Targen (1)](#targen) |
+|[The Liquor <br>Priest (1 soon??)](#the-liquor-priest) | [Vishous (1)](#vishous) |
+| [Your Assigned <br>Lummate (3)](#your-assigned-lummate) | [Yuli (1)](#yuli) |
+| [Yuu (1)](#yuu) | |
 
 ---
 ## Angel
@@ -116,7 +117,6 @@
 | **[Auto Refine](https://github.com/starlitcode/Lumiverse-Auto-Refine)** | Sidecar (secondary LLM) slop fixer/rewriter |
 | **[Auto Retry](https://github.com/starlitcode/Lumiverse-Auto-Retry)** | Automatically retry or swipe failed, empty, frozen, or cut-off responses. |
 ---
-
 ## Mousepad
 |  |  |
 | :---: | :--- |
@@ -151,6 +151,10 @@
 | :---: | :--- |
 | **[Lumiverse Suite](https://github.com/I-Sereya-I/lumiverse_suite)** | Overhaul of various UI components, including the character library and chat page. |
 ---
+## Shiru
+|  |  |
+| :---: | :--- |
+| **[LumiLens](https://github.com/shirunick/lumilens)** | Ari can pitch cards, search your library, and run Tinder swipes. |
 ## Stem4000
 |  |  |
 | :---: | :--- |
