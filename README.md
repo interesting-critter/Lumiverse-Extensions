@@ -44,7 +44,7 @@
 | :---: | :--- |
 | **[Super Deduper](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | Clear duplicate cards from your library |
 | **[Greeting Image Generator](https://github.com/ajrc0re/Lumiverse-GreetingImageGenerator.git)** | What it says on the tin. Gen greeting images using your existing image gen connections. |
-| **[Waypoints](https://github.com/ajrc0re/Lumiverse-SuperDeduper)** | turns greeting into destinations for previous greetings |
+| **[Waypoints](https://github.com/ajrc0re/LumiverseWaypoints)** | turns greeting into destinations for previous greetings |
 ---
 ## Creature
 |  |  |
