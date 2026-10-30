@@ -100,7 +100,7 @@
 |  |  |
 | :---: | :--- |
 | **[Bionic](https://github.com/patatasbravasch-arch/bionic)** | Bionic reading and various other quality of life features |
-| **[JAR Bridge](https://github.com/lunchberrymail-cmyk/JAR-Bridge) | Import Janitor cards, lorebooks, and chat history files |
+| **[JAR Bridge](https://github.com/lunchberrymail-cmyk/JAR-Bridge)** | Import Janitor cards, lorebooks, and chat history files |
 ---
 ## Mindbound
 |  |  |
