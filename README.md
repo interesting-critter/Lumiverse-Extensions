@@ -7,7 +7,7 @@
 | [Critter (3)](#critter)| [Datacat (1)](#datacat) |
 | [EmpeQ (1)](#empeq) | [Isiggy](#isiggy) |
 | [Japolino (4)](#japolino) | [Kitty Lotus (5)](#kitty-lotus) |
-| [Lin (1)](#lin) | [Lunch (1)](#lunch) |
+| [Lin (1)](#lin) | [Lunch (2)](#lunch) |
 | [Mindbound (1)](#mindbound) | [Missus<br>Meesecks (1)](#missus-meesecks) |
 | [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
 | [Prolix (7)](#prolix) | [Roon (1)](#roon) |
@@ -100,6 +100,7 @@
 |  |  |
 | :---: | :--- |
 | **[Bionic](https://github.com/patatasbravasch-arch/bionic)** | Bionic reading and various other quality of life features |
+| **[JAR Bridge](https://github.com/lunchberrymail-cmyk/JAR-Bridge) | Import Janitor cards, lorebooks, and chat history files |
 ---
 ## Mindbound
 |  |  |
