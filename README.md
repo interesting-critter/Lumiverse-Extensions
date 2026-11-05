@@ -1,16 +1,16 @@
-## Table of Contents <sub><sup>(52 Total)</sup></sub>
+## Table of Contents <sub><sup>(70 Total)</sup></sub>
 | | |
 | :---: | :---: |
-| [Angel (1)](#angel) | [Beeopo (1)](#beeopo) | 
+| [Angel (2)](#angel) | [Beeopo (1)](#beeopo) | 
 | [BitHappy (1)](#bithappy) | [Cfigure (2)](#cfigure) |
 | [Core (3)](#core) | [Creature (2)](#creature) |
 | [Critter (3)](#critter)| [Datacat (1)](#datacat) |
-| [EmpeQ (1)](#empeq) | [Isiggy](#isiggy) |
+| [EmpeQ (1)](#empeq) | [Isiggy (2)](#isiggy) |
 | [Japolino (4)](#japolino) | [Kitty Lotus (5)](#kitty-lotus) |
 | [Lin (1)](#lin) | [Lunch (2)](#lunch) |
 | [Mindbound (1)](#mindbound) | [Missus<br>Meesecks (1)](#missus-meesecks) |
 | [Moon (2)](#moon) | [Mousepad (6)](#mousepad) |
-| [Prolix (7)](#prolix) | [Roon (1)](#roon) |
+| [Prolix (8)](#prolix) | [Roon (1)](#roon) |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
 | [Shiru (1)](#shiru) | [Stem4000 (2)](#stem4000) |
 | [Steven (7)](#steven) | [Targen (1)](#targen) |
@@ -56,7 +56,7 @@
 ## Critter
 | |  |
 | :---: | :--- |
-| [Connection Folders](https://github.com/interesting-critter/Connection-Folders.git) | adds folders to the connections tab (just for llm connections so far) |
+| [LumiTag](https://github.com/interesting-critter/LumiTag) | Tag manager. Delete, assign, and merge tags in bulk |
 | **[LumiTarot](https://github.com/interesting-critter/lumi-tarot)** | Have chars perform tarot readings for your personas |
 | **[Regex Studio](https://github.com/interesting-critter/Regex-Studio)** | Edit entire cards and lorebooks at once with regex find and replace |
 ---
@@ -133,6 +133,7 @@
 |  |  |
 | :---: | :--- |
 | **[Character Nudges](https://github.com/prolix-oc/Lumiverse-CharacterNudges)** | Set a character to send push notification messages at random intervals. |
+| **[Lumink](https://github.com/prolix-oc/Lumink) | Draw inside lumiverse. Apple Pencil support in ipadOS |
 | **[Luminotes <br>*(X Coffee & Roon)*](https://github.com/prolix-oc/Luminote)** | A fork of Roon's Notehaven extension. Obsidian-like note taking extension. |
 | **[SimTracker](https://github.com/prolix-oc/Lumiverse-SimTracker)** | A port of ST's SimTracker extension (but cooler). |
 | **[Shitposting Chat Room](https://github.com/prolix-oc/Lumiverse-ChatRoom)** | Chat with council members about your current chat. |
