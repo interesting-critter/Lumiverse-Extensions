@@ -124,9 +124,9 @@
 | :---: | :--- |
 | **[Concurrent Alt Trajectories (CAT)](https://github.com/AMousePad/CAT)** | Gen several swipes at once, each swipe using different presets and/or models |
 | **[Hone](https://github.com/AMousePad/Hone)** | Sidecar (secondary LLM) slop fixer/rewriter. |
-| **[LumiAgent](https://github.com/AMousePad/LumiAgent)** | Agentic editing of character cards, presets, lorebooks, regex, etc. |
+| **[LumiAgent](https://github.com/AMousePad/LumiAgent)** | An agent with comprehensive access & editing capabilities across Lumiverse & its docs. |
 | **[LumiBooks](https://github.com/AMousePad/LumiBooks)** | In-depth lorebook-based long-term memory system. |
-| **[LumiCache](https://github.com/AMousePad/LumiCache)** | Tells you where your caching will break and how to fix it |
+| **[LumiCache](https://github.com/AMousePad/LumiCache)** | Tells you where your caching will break and how to fix it. |
 | **[LumiRealm](https://github.com/AMousePad/LumiRealm/)** | RisuAI character card + module compatibility. |
 ---
 ## Prolix
