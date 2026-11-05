@@ -9,13 +9,13 @@
 | [Japolino (4)](#japolino) | [Kitty Lotus (5)](#kitty-lotus) |
 | [Lin (1)](#lin) | [Lunch (2)](#lunch) |
 | [Mindbound (1)](#mindbound) | [Missus<br>Meesecks (1)](#missus-meesecks) |
-| [Moon (2)](#moon) | [Mousepad (4)](#mousepad) |
+| [Moon (2)](#moon) | [Mousepad (6)](#mousepad) |
 | [Prolix (7)](#prolix) | [Roon (1)](#roon) |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
 | [Shiru (1)](#shiru) | [Stem4000 (2)](#stem4000) |
 | [Steven (7)](#steven) | [Targen (1)](#targen) |
 |[The Liquor <br>Priest (1 soon??)](#the-liquor-priest) | [Vishous (1)](#vishous) |
-| [Your Assigned <br>Lummate (3)](#your-assigned-lummate) | [Yuli (1)](#yuli) |
+| [Your Assigned <br>Lummate (4)](#your-assigned-lummate) | [Yuli (2)](#yuli) |
 | [Yuu (1)](#yuu) | |
 
 ---
@@ -23,6 +23,7 @@
 |  |  |
 | :---: | :---: |
 | **[Bookworm](https://github.com/angyaruo/BookWorm)** | Your own little encyclopedic worm inside lumiverse |
+| **[KazzWare](https://github.com/angyaruo/KazzWare)** | An in-chat bratty assistant |
 ## Beeopo
 | | |
 | :---: | :--- |
@@ -121,9 +122,11 @@
 ## Mousepad
 |  |  |
 | :---: | :--- |
+| **[Concurrent Alt Trajectories (CAT)](https://github.com/AMousePad/CAT)** | Gen several swipes at once, each swipe using different presets and/or models |
 | **[Hone](https://github.com/AMousePad/Hone)** | Sidecar (secondary LLM) slop fixer/rewriter. |
 | **[LumiAgent](https://github.com/AMousePad/LumiAgent)** | Agentic editing of character cards, presets, lorebooks, regex, etc. |
 | **[LumiBooks](https://github.com/AMousePad/LumiBooks)** | In-depth lorebook-based long-term memory system. |
+| **[LumiCache](https://github.com/AMousePad/LumiCache)** | Tells you where your caching will break and how to fix it |
 | **[LumiRealm](https://github.com/AMousePad/LumiRealm/)** | RisuAI character card + module compatibility. |
 ---
 ## Prolix
@@ -191,9 +194,12 @@
 ## Your Assigned Lummate
 |  |  |
 | :---: | :--- |
-| **[Lummate](https://github.com/WanderingMonk8/lummate.git)** | Xtoy connectivity. |
-| **[Img Gen Payload Injector](https://github.com/WanderingMonk8/img-gen-payload-injector)** | Inject extra payload parameters required by NanoGPT img gen |
 | **[Custom Chat Voice](https://github.com/WanderingMonk8/custom_voice)** | says it on the tin. custom tts voices. |
+| **[Img Gen Payload Injector](https://github.com/WanderingMonk8/img-gen-payload-injector)** | Inject extra payload parameters required by NanoGPT img gen |
+| **[JarvisType](https://github.com/WanderingMonk8/jarvistype)** | Every wanted to engage in 'wholesome rp' while both of your hands are 'pre-occupied'? This is the speech to text solution for you |
+| **[Lummate](https://github.com/WanderingMonk8/lummate.git)** | Xtoy connectivity. |
+
+
 ## Yuli
 |  |  |
 | :---: | :---: |
