@@ -1,4 +1,4 @@
-## Table of Contents <sub><sup>(70 Total)</sup></sub>
+## Table of Contents <sub><sup>(72 Total)</sup></sub>
 | | |
 | :---: | :---: |
 | [Angel (2)](#angel) | [Beeopo (1)](#beeopo) | 
@@ -8,9 +8,10 @@
 | [EmpeQ (1)](#empeq) | [Isiggy (2)](#isiggy) |
 | [Japolino (4)](#japolino) | [Kitty Lotus (5)](#kitty-lotus) |
 | [Lin (1)](#lin) | [Lunch (2)](#lunch) |
-| [Mindbound (1)](#mindbound) | [Missus<br>Meesecks (1)](#missus-meesecks) |
+| [Mindbound (1)](#mindbound) | [Missus<br>Meesecks (2)](#missus-meesecks) |
 | [Moon (2)](#moon) | [Mousepad (6)](#mousepad) |
 | [Prolix (8)](#prolix) | [Roon (1)](#roon) |
+| [Ryah (1)](#ryah) | placeholder |
 | [SCA255 (1)](#sca255) | [Sereya (1)](#sereya) |
 | [Shiru (1)](#shiru) | [Stem4000 (2)](#stem4000) |
 | [Steven (7)](#steven) | [Targen (1)](#targen) |
@@ -111,6 +112,7 @@
 ## Missus Meesecks
 |  |  |
 | :---: | :---: |
+| **[Adventure Time](https://github.com/MissusMeesecks/AdventureTime)** | A port of sillytavern's multihog extension |
 | **[Stagecoach](https://github.com/MissusMeesecks/Stagecoach)** | In cards with linear timelines in their greetings, subtly guide the AI toward the next greeting |
 ---
 ## Moon
@@ -145,6 +147,11 @@
 |  |  |
 | :---: | :--- |
 | **[Notehaven](https://github.com/hans123m12m1/lumiverse-notehaven)** | A notes extension similar to ObsidianMD. You can also set the floating button to a cute chibi of your OC :3 (or whatever image you want, idc). |
+---
+## Ryah
+|  |  |
+| :---: | :---: |
+| **[Summaryception](https://github.com/Ryah/Lumi-Summaryception)** | A port of sillytavern's extension by the same name |
 ---
 ## SCA255
 |  |  |
